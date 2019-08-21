@@ -1,3 +1,2 @@
-# hello-word
-just anothor repository
-hi humans ! 
+# hello-word                 
+hi humans !
